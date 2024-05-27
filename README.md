@@ -1,2 +1,4 @@
-# Trabalho---NIA---MLP-MNIST
-Trabalho realizado durante a disciplina de Noções de Inteligência Artificial da UNB (01/2024).
+# Implementação de redes neurais multicamadas com Tensorflow
+O objetivo deste trabalho foi a implementação de _perceptrons_ multicamadas para classificação de dígitos manuscritos utilizando o _dataset_ MNIST. Diferentes combinações de hiperparâmetros, funções de ativação e otimizadores foram avaliados para se obter um modelo de acurácia satisfatória e avaliar os efeitos de cada mudança sobre essa medida. Ao final, é obtido um modelo com acurácia de 97,5%, com a visualização de alguns dos exemplos classificados errados. Pode-se ver que alguns erros seriam facilmente cometidos por um humano.
+<br><br>
+Diversas funções auxiliares da biblioteca D2L (https://d2l.ai/index.html) foram aplicadas nesse trabalho, o que permitiu uma introdução mais didática e amigável ao assunto. Recomendo fortemente essa fonte para qualquer um interessado em _machine learning_ e suas aplicações.
